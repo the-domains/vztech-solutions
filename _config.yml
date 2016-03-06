@@ -1,0 +1,28 @@
+name: VZTech Solutions
+favicon: null
+layout_spectrum: 0.7167808394879103
+typography_spectrum: 0.609367182245478
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.03040583385154605
+  lightness: 0.5870240242220461
+  saturation: 0.6409100973978639
+  rhythmicContrast: 0.3231231914833188
+purpose: []
